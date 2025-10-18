@@ -1,7 +1,0 @@
-{
-  "dependencies": ["./langgraph_supervisor"],
-  "graphs": {
-    "agent": "./langgraph_supervisor/supervisor.py:graph"
-  },
-  "env": ".env"
-}
